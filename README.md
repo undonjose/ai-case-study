@@ -46,3 +46,18 @@
 * What technologies would this additional product or service utilize? Mainly voice or screens.
 
 * Why are these technologies appropriate for your solution? As interfaces keeping it simple is crucial for success and widespread adoption.
+
+## Sources
+
+https://research.nvidia.com/publications
+
+https://www.researchgate.net/publication/334967263_Research_on_the_Development_of_NVIDIA
+
+https://www.techtarget.com/searchenterpriseai/definition/OpenAI
+
+https://images.nvidia.com/aem-dam/Solutions/documents/FY2023-NVIDIA-Corporate-Responsibility-Report-1.pdf
+
+https://www.forbes.com/sites/forbestechcouncil/2023/02/17/is-bigger-better-why-the-chatgpt-vs-gpt-3-vs-gpt-4-battle-is-just-a-family-chat/?sh=55759c95b658
+
+
+
